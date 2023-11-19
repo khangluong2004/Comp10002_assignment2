@@ -1,0 +1,17 @@
+==STAGE 0============================
+Number of statements: 8
+Number of characters: 50
+Number of states: 29
+==STAGE 1============================
+Hey#...you
+Hi#T...
+Hey...#you
+Hel...lo
+==STAGE 2============================
+Number of states: 17
+Total frequency: 26
+-------------------------------------
+Hi...#Sir
+Hi#t...here
+He...y#you
+==THE END============================

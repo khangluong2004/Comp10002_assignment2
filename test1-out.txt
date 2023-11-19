@@ -1,0 +1,24 @@
+==STAGE 0============================
+Number of statements: 9
+Number of characters: 98
+Number of states: 64
+==STAGE 1============================
+Hi...#Alistair
+Hello...
+Hi#A...listair
+Hi#Ar...tem
+Hi#Al...istair
+This is a prompt that exceeds the le.
+He...y#Prof
+==STAGE 2============================
+Number of states: 59
+Total frequency: 89
+-------------------------------------
+Hi...#Alistair
+Hello...
+Hi#A...listair
+Hi#Ar...tem
+Hi#Al...istair
+This is a prompt that exceeds the le.
+He...y#Prof
+==THE END============================

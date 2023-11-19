@@ -1,0 +1,26 @@
+Hi#Alistair
+Hi#Artem
+Hi#Alistair
+Hello
+Hey#Prof
+Hey#Prof
+Hi#Sir
+Hi#Sir
+This is a prompt that exceeds the l
+
+Hi
+Hello
+Hi#A
+Hi#Ar
+Hi#Al
+This is a prompt that exceeds the length of the output line
+He
+
+5
+Hi
+Hello
+Hi#A
+Hi#Ar
+Hi#Al
+This is a prompt that exceeds the length of the output line
+He

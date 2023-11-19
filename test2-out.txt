@@ -1,0 +1,22 @@
+==STAGE 0============================
+Number of statements: 7
+Number of characters: 224
+Number of states: 184
+==STAGE 1============================
+Alice... was not a bit hurt
+Alice was... not a bit hurt
+Alice thought the whole thing very ab
+==STAGE 2============================
+Number of states: 174
+Total frequency: 178
+-------------------------------------
+Alice... was not a bit hurt
+Alice was... not a bit hurt
+Alice thought the whole thing very ab
+Alice rep...lied eagerly
+Alice repl...ied eagerly
+Alice repli...ed eagerly
+Alice replie...d eagerly
+Alice replied... eagerly
+Alice replied eagerly...
+==THE END============================
